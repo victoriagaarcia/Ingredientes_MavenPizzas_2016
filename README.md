@@ -1,2 +1,2 @@
 # Ingredientes_MavenPizzas_2016
-Recomendación acerca de la compra semanal de ingredientes para una pizzería en base a los pedidos realizados durante el año 2015, tras haber limpiado el Dataset.
+Recomendación acerca de la compra semanal de ingredientes para una pizzería en base a los pedidos realizados durante el año 2016, tras haber limpiado el Dataset. Se arreglan los datos vacíos y no válidos (Nulls y NaNs), y se observan las pizzas pedidas cada semana (contemplando tipo y tamaño). Considerando los ingredientes que lleva cada una de ellas, se hace la media semanal de las cantidades (en kilogramos) necesarias de cada uno, para luego exportar la recomendación en un archivo de extensión .csv.
